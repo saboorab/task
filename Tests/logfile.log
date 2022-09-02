@@ -1,0 +1,587 @@
+2022-09-02 04:48:15,238 :INFO :TestHomePage :End to End scenario for entering any tour in the wishlist and then removing it
+2022-09-02 04:48:57,333 :ERROR :TestHomePage :An Exception occurred:Message: element not interactable
+  (Session info: chrome=104.0.5112.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D178B3+2193587]
+	Ordinal0 [0x00CB0681+1771137]
+	Ordinal0 [0x00BC4070+802928]
+	Ordinal0 [0x00BF3533+996659]
+	Ordinal0 [0x00BE9223+954915]
+	Ordinal0 [0x00C0D7AC+1103788]
+	Ordinal0 [0x00BE8C04+953348]
+	Ordinal0 [0x00C0D9C4+1104324]
+	Ordinal0 [0x00C1DAE2+1170146]
+	Ordinal0 [0x00C0D5C6+1103302]
+	Ordinal0 [0x00BE77E0+948192]
+	Ordinal0 [0x00BE86E6+952038]
+	GetHandleVerifier [0x00FC0CB2+2738370]
+	GetHandleVerifier [0x00FB21B8+2678216]
+	GetHandleVerifier [0x00DA17AA+512954]
+	GetHandleVerifier [0x00DA0856+509030]
+	Ordinal0 [0x00CB743B+1799227]
+	Ordinal0 [0x00CBBB68+1817448]
+	Ordinal0 [0x00CBBC55+1817685]
+	Ordinal0 [0x00CC5230+1856048]
+	BaseThreadInitThunk [0x7609FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F67A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F67A6E+238]
+
+2022-09-02 04:48:58,721 :INFO :TestHomePage :creating the new account of traveller test case
+2022-09-02 04:49:08,807 :ERROR :TestHomePage :An Exception occurred:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'profile-placeholder')]"}
+  (Session info: chrome=104.0.5112.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D178B3+2193587]
+	Ordinal0 [0x00CB0681+1771137]
+	Ordinal0 [0x00BC41A8+803240]
+	Ordinal0 [0x00BF24A0+992416]
+	Ordinal0 [0x00BF273B+993083]
+	Ordinal0 [0x00C1F7C2+1177538]
+	Ordinal0 [0x00C0D7F4+1103860]
+	Ordinal0 [0x00C1DAE2+1170146]
+	Ordinal0 [0x00C0D5C6+1103302]
+	Ordinal0 [0x00BE77E0+948192]
+	Ordinal0 [0x00BE86E6+952038]
+	GetHandleVerifier [0x00FC0CB2+2738370]
+	GetHandleVerifier [0x00FB21B8+2678216]
+	GetHandleVerifier [0x00DA17AA+512954]
+	GetHandleVerifier [0x00DA0856+509030]
+	Ordinal0 [0x00CB743B+1799227]
+	Ordinal0 [0x00CBBB68+1817448]
+	Ordinal0 [0x00CBBC55+1817685]
+	Ordinal0 [0x00CC5230+1856048]
+	BaseThreadInitThunk [0x7609FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F67A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F67A6E+238]
+
+2022-09-02 04:49:09,919 :INFO :TestHomePage :This method will filter on the basis of amount range and verify the result
+2022-09-02 04:49:19,954 :ERROR :TestHomePage :An Exception occurred:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Search')]"}
+  (Session info: chrome=104.0.5112.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D178B3+2193587]
+	Ordinal0 [0x00CB0681+1771137]
+	Ordinal0 [0x00BC41A8+803240]
+	Ordinal0 [0x00BF24A0+992416]
+	Ordinal0 [0x00BF273B+993083]
+	Ordinal0 [0x00C1F7C2+1177538]
+	Ordinal0 [0x00C0D7F4+1103860]
+	Ordinal0 [0x00C1DAE2+1170146]
+	Ordinal0 [0x00C0D5C6+1103302]
+	Ordinal0 [0x00BE77E0+948192]
+	Ordinal0 [0x00BE86E6+952038]
+	GetHandleVerifier [0x00FC0CB2+2738370]
+	GetHandleVerifier [0x00FB21B8+2678216]
+	GetHandleVerifier [0x00DA17AA+512954]
+	GetHandleVerifier [0x00DA0856+509030]
+	Ordinal0 [0x00CB743B+1799227]
+	Ordinal0 [0x00CBBB68+1817448]
+	Ordinal0 [0x00CBBC55+1817685]
+	Ordinal0 [0x00CC5230+1856048]
+	BaseThreadInitThunk [0x7609FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F67A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F67A6E+238]
+
+2022-09-02 04:49:20,908 :INFO :TestHomePage :test_search_for_a_trip will verify search and the result title agaisnt the selected adventures
+2022-09-02 04:49:30,997 :ERROR :TestHomePage :An Exception occurred:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Search')]"}
+  (Session info: chrome=104.0.5112.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D178B3+2193587]
+	Ordinal0 [0x00CB0681+1771137]
+	Ordinal0 [0x00BC41A8+803240]
+	Ordinal0 [0x00BF24A0+992416]
+	Ordinal0 [0x00BF273B+993083]
+	Ordinal0 [0x00C1F7C2+1177538]
+	Ordinal0 [0x00C0D7F4+1103860]
+	Ordinal0 [0x00C1DAE2+1170146]
+	Ordinal0 [0x00C0D5C6+1103302]
+	Ordinal0 [0x00BE77E0+948192]
+	Ordinal0 [0x00BE86E6+952038]
+	GetHandleVerifier [0x00FC0CB2+2738370]
+	GetHandleVerifier [0x00FB21B8+2678216]
+	GetHandleVerifier [0x00DA17AA+512954]
+	GetHandleVerifier [0x00DA0856+509030]
+	Ordinal0 [0x00CB743B+1799227]
+	Ordinal0 [0x00CBBB68+1817448]
+	Ordinal0 [0x00CBBC55+1817685]
+	Ordinal0 [0x00CC5230+1856048]
+	BaseThreadInitThunk [0x7609FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F67A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F67A6E+238]
+
+2022-09-02 04:49:32,003 :INFO :TestHomePage :test_sent_broshure_email will send broshure to the email address provided
+2022-09-02 04:49:42,066 :ERROR :TestHomePage :An Exception occurred:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Search')]"}
+  (Session info: chrome=104.0.5112.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D178B3+2193587]
+	Ordinal0 [0x00CB0681+1771137]
+	Ordinal0 [0x00BC41A8+803240]
+	Ordinal0 [0x00BF24A0+992416]
+	Ordinal0 [0x00BF273B+993083]
+	Ordinal0 [0x00C1F7C2+1177538]
+	Ordinal0 [0x00C0D7F4+1103860]
+	Ordinal0 [0x00C1DAE2+1170146]
+	Ordinal0 [0x00C0D5C6+1103302]
+	Ordinal0 [0x00BE77E0+948192]
+	Ordinal0 [0x00BE86E6+952038]
+	GetHandleVerifier [0x00FC0CB2+2738370]
+	GetHandleVerifier [0x00FB21B8+2678216]
+	GetHandleVerifier [0x00DA17AA+512954]
+	GetHandleVerifier [0x00DA0856+509030]
+	Ordinal0 [0x00CB743B+1799227]
+	Ordinal0 [0x00CBBB68+1817448]
+	Ordinal0 [0x00CBBC55+1817685]
+	Ordinal0 [0x00CC5230+1856048]
+	BaseThreadInitThunk [0x7609FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F67A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F67A6E+238]
+
+2022-09-02 05:03:12,581 :INFO :TestHomePage :creating the new account of traveller test case
+2022-09-02 05:03:33,550 :INFO :TestHomePage :test_search_for_a_trip will verify search and the result title agaisnt the selected adventures
+2022-09-02 05:03:43,588 :ERROR :TestHomePage :An Exception occurred:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Search')]"}
+  (Session info: chrome=104.0.5112.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D178B3+2193587]
+	Ordinal0 [0x00CB0681+1771137]
+	Ordinal0 [0x00BC41A8+803240]
+	Ordinal0 [0x00BF24A0+992416]
+	Ordinal0 [0x00BF273B+993083]
+	Ordinal0 [0x00C1F7C2+1177538]
+	Ordinal0 [0x00C0D7F4+1103860]
+	Ordinal0 [0x00C1DAE2+1170146]
+	Ordinal0 [0x00C0D5C6+1103302]
+	Ordinal0 [0x00BE77E0+948192]
+	Ordinal0 [0x00BE86E6+952038]
+	GetHandleVerifier [0x00FC0CB2+2738370]
+	GetHandleVerifier [0x00FB21B8+2678216]
+	GetHandleVerifier [0x00DA17AA+512954]
+	GetHandleVerifier [0x00DA0856+509030]
+	Ordinal0 [0x00CB743B+1799227]
+	Ordinal0 [0x00CBBB68+1817448]
+	Ordinal0 [0x00CBBC55+1817685]
+	Ordinal0 [0x00CC5230+1856048]
+	BaseThreadInitThunk [0x7609FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F67A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F67A6E+238]
+
+2022-09-02 05:03:44,730 :INFO :TestHomePage :This method will filter on the basis of amount range and verify the result
+2022-09-02 05:03:54,813 :ERROR :TestHomePage :An Exception occurred:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Search')]"}
+  (Session info: chrome=104.0.5112.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D178B3+2193587]
+	Ordinal0 [0x00CB0681+1771137]
+	Ordinal0 [0x00BC41A8+803240]
+	Ordinal0 [0x00BF24A0+992416]
+	Ordinal0 [0x00BF273B+993083]
+	Ordinal0 [0x00C1F7C2+1177538]
+	Ordinal0 [0x00C0D7F4+1103860]
+	Ordinal0 [0x00C1DAE2+1170146]
+	Ordinal0 [0x00C0D5C6+1103302]
+	Ordinal0 [0x00BE77E0+948192]
+	Ordinal0 [0x00BE86E6+952038]
+	GetHandleVerifier [0x00FC0CB2+2738370]
+	GetHandleVerifier [0x00FB21B8+2678216]
+	GetHandleVerifier [0x00DA17AA+512954]
+	GetHandleVerifier [0x00DA0856+509030]
+	Ordinal0 [0x00CB743B+1799227]
+	Ordinal0 [0x00CBBB68+1817448]
+	Ordinal0 [0x00CBBC55+1817685]
+	Ordinal0 [0x00CC5230+1856048]
+	BaseThreadInitThunk [0x7609FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F67A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F67A6E+238]
+
+2022-09-02 05:03:56,027 :INFO :TestHomePage :test_sent_broshure_email will send broshure to the email address provided
+2022-09-02 05:04:06,077 :ERROR :TestHomePage :An Exception occurred:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Search')]"}
+  (Session info: chrome=104.0.5112.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D178B3+2193587]
+	Ordinal0 [0x00CB0681+1771137]
+	Ordinal0 [0x00BC41A8+803240]
+	Ordinal0 [0x00BF24A0+992416]
+	Ordinal0 [0x00BF273B+993083]
+	Ordinal0 [0x00C1F7C2+1177538]
+	Ordinal0 [0x00C0D7F4+1103860]
+	Ordinal0 [0x00C1DAE2+1170146]
+	Ordinal0 [0x00C0D5C6+1103302]
+	Ordinal0 [0x00BE77E0+948192]
+	Ordinal0 [0x00BE86E6+952038]
+	GetHandleVerifier [0x00FC0CB2+2738370]
+	GetHandleVerifier [0x00FB21B8+2678216]
+	GetHandleVerifier [0x00DA17AA+512954]
+	GetHandleVerifier [0x00DA0856+509030]
+	Ordinal0 [0x00CB743B+1799227]
+	Ordinal0 [0x00CBBB68+1817448]
+	Ordinal0 [0x00CBBC55+1817685]
+	Ordinal0 [0x00CC5230+1856048]
+	BaseThreadInitThunk [0x7609FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F67A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F67A6E+238]
+
+2022-09-02 05:04:06,977 :INFO :TestHomePage :End to End scenario for entering any tour in the wishlist and then removing it
+2022-09-02 05:04:14,071 :ERROR :TestHomePage :An Exception occurred:move_to requires a WebElement
+2022-09-02 05:05:34,740 :INFO :TestHomePage :creating the new account of traveller test case
+2022-09-02 05:05:53,360 :INFO :TestHomePage :test_search_for_a_trip will verify search and the result title agaisnt the selected adventures
+2022-09-02 05:06:03,438 :ERROR :TestHomePage :An Exception occurred:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Search')]"}
+  (Session info: chrome=104.0.5112.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D178B3+2193587]
+	Ordinal0 [0x00CB0681+1771137]
+	Ordinal0 [0x00BC41A8+803240]
+	Ordinal0 [0x00BF24A0+992416]
+	Ordinal0 [0x00BF273B+993083]
+	Ordinal0 [0x00C1F7C2+1177538]
+	Ordinal0 [0x00C0D7F4+1103860]
+	Ordinal0 [0x00C1DAE2+1170146]
+	Ordinal0 [0x00C0D5C6+1103302]
+	Ordinal0 [0x00BE77E0+948192]
+	Ordinal0 [0x00BE86E6+952038]
+	GetHandleVerifier [0x00FC0CB2+2738370]
+	GetHandleVerifier [0x00FB21B8+2678216]
+	GetHandleVerifier [0x00DA17AA+512954]
+	GetHandleVerifier [0x00DA0856+509030]
+	Ordinal0 [0x00CB743B+1799227]
+	Ordinal0 [0x00CBBB68+1817448]
+	Ordinal0 [0x00CBBC55+1817685]
+	Ordinal0 [0x00CC5230+1856048]
+	BaseThreadInitThunk [0x7609FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F67A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F67A6E+238]
+
+2022-09-02 05:06:04,584 :INFO :TestHomePage :This method will filter on the basis of amount range and verify the result
+2022-09-02 05:06:14,668 :ERROR :TestHomePage :An Exception occurred:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Search')]"}
+  (Session info: chrome=104.0.5112.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D178B3+2193587]
+	Ordinal0 [0x00CB0681+1771137]
+	Ordinal0 [0x00BC41A8+803240]
+	Ordinal0 [0x00BF24A0+992416]
+	Ordinal0 [0x00BF273B+993083]
+	Ordinal0 [0x00C1F7C2+1177538]
+	Ordinal0 [0x00C0D7F4+1103860]
+	Ordinal0 [0x00C1DAE2+1170146]
+	Ordinal0 [0x00C0D5C6+1103302]
+	Ordinal0 [0x00BE77E0+948192]
+	Ordinal0 [0x00BE86E6+952038]
+	GetHandleVerifier [0x00FC0CB2+2738370]
+	GetHandleVerifier [0x00FB21B8+2678216]
+	GetHandleVerifier [0x00DA17AA+512954]
+	GetHandleVerifier [0x00DA0856+509030]
+	Ordinal0 [0x00CB743B+1799227]
+	Ordinal0 [0x00CBBB68+1817448]
+	Ordinal0 [0x00CBBC55+1817685]
+	Ordinal0 [0x00CC5230+1856048]
+	BaseThreadInitThunk [0x7609FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F67A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F67A6E+238]
+
+2022-09-02 05:06:15,592 :INFO :TestHomePage :test_sent_broshure_email will send broshure to the email address provided
+2022-09-02 05:06:25,644 :ERROR :TestHomePage :An Exception occurred:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Search')]"}
+  (Session info: chrome=104.0.5112.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D178B3+2193587]
+	Ordinal0 [0x00CB0681+1771137]
+	Ordinal0 [0x00BC41A8+803240]
+	Ordinal0 [0x00BF24A0+992416]
+	Ordinal0 [0x00BF273B+993083]
+	Ordinal0 [0x00C1F7C2+1177538]
+	Ordinal0 [0x00C0D7F4+1103860]
+	Ordinal0 [0x00C1DAE2+1170146]
+	Ordinal0 [0x00C0D5C6+1103302]
+	Ordinal0 [0x00BE77E0+948192]
+	Ordinal0 [0x00BE86E6+952038]
+	GetHandleVerifier [0x00FC0CB2+2738370]
+	GetHandleVerifier [0x00FB21B8+2678216]
+	GetHandleVerifier [0x00DA17AA+512954]
+	GetHandleVerifier [0x00DA0856+509030]
+	Ordinal0 [0x00CB743B+1799227]
+	Ordinal0 [0x00CBBB68+1817448]
+	Ordinal0 [0x00CBBC55+1817685]
+	Ordinal0 [0x00CC5230+1856048]
+	BaseThreadInitThunk [0x7609FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F67A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F67A6E+238]
+
+2022-09-02 05:06:26,467 :INFO :TestHomePage :End to End scenario for entering any tour in the wishlist and then removing it
+2022-09-02 05:06:36,536 :ERROR :TestHomePage :An Exception occurred:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'profile-placeholder')]"}
+  (Session info: chrome=104.0.5112.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D178B3+2193587]
+	Ordinal0 [0x00CB0681+1771137]
+	Ordinal0 [0x00BC41A8+803240]
+	Ordinal0 [0x00BF24A0+992416]
+	Ordinal0 [0x00BF273B+993083]
+	Ordinal0 [0x00C1F7C2+1177538]
+	Ordinal0 [0x00C0D7F4+1103860]
+	Ordinal0 [0x00C1DAE2+1170146]
+	Ordinal0 [0x00C0D5C6+1103302]
+	Ordinal0 [0x00BE77E0+948192]
+	Ordinal0 [0x00BE86E6+952038]
+	GetHandleVerifier [0x00FC0CB2+2738370]
+	GetHandleVerifier [0x00FB21B8+2678216]
+	GetHandleVerifier [0x00DA17AA+512954]
+	GetHandleVerifier [0x00DA0856+509030]
+	Ordinal0 [0x00CB743B+1799227]
+	Ordinal0 [0x00CBBB68+1817448]
+	Ordinal0 [0x00CBBC55+1817685]
+	Ordinal0 [0x00CC5230+1856048]
+	BaseThreadInitThunk [0x7609FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F67A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F67A6E+238]
+
+2022-09-02 05:11:59,945 :INFO :TestHomePage :creating the new account of traveller test case
+2022-09-02 05:12:18,754 :INFO :TestHomePage :test_search_for_a_trip will verify search and the result title agaisnt the selected adventures
+2022-09-02 05:12:28,806 :ERROR :TestHomePage :An Exception occurred:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Search')]"}
+  (Session info: chrome=104.0.5112.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D178B3+2193587]
+	Ordinal0 [0x00CB0681+1771137]
+	Ordinal0 [0x00BC41A8+803240]
+	Ordinal0 [0x00BF24A0+992416]
+	Ordinal0 [0x00BF273B+993083]
+	Ordinal0 [0x00C1F7C2+1177538]
+	Ordinal0 [0x00C0D7F4+1103860]
+	Ordinal0 [0x00C1DAE2+1170146]
+	Ordinal0 [0x00C0D5C6+1103302]
+	Ordinal0 [0x00BE77E0+948192]
+	Ordinal0 [0x00BE86E6+952038]
+	GetHandleVerifier [0x00FC0CB2+2738370]
+	GetHandleVerifier [0x00FB21B8+2678216]
+	GetHandleVerifier [0x00DA17AA+512954]
+	GetHandleVerifier [0x00DA0856+509030]
+	Ordinal0 [0x00CB743B+1799227]
+	Ordinal0 [0x00CBBB68+1817448]
+	Ordinal0 [0x00CBBC55+1817685]
+	Ordinal0 [0x00CC5230+1856048]
+	BaseThreadInitThunk [0x7609FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F67A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F67A6E+238]
+
+2022-09-02 05:12:29,551 :INFO :TestHomePage :This method will filter on the basis of amount range and verify the result
+2022-09-02 05:19:31,355 :INFO :TestHomePage :creating the new account of traveller test case
+2022-09-02 05:25:29,478 :INFO :TestHomePage :creating the new account of traveller test case
+2022-09-02 05:25:57,208 :ERROR :TestHomePage :An Exception occurred:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(@class, 'profile-details-greeting')]"}
+  (Session info: chrome=104.0.5112.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D178B3+2193587]
+	Ordinal0 [0x00CB0681+1771137]
+	Ordinal0 [0x00BC41A8+803240]
+	Ordinal0 [0x00BF24A0+992416]
+	Ordinal0 [0x00BF273B+993083]
+	Ordinal0 [0x00C1F7C2+1177538]
+	Ordinal0 [0x00C0D7F4+1103860]
+	Ordinal0 [0x00C1DAE2+1170146]
+	Ordinal0 [0x00C0D5C6+1103302]
+	Ordinal0 [0x00BE77E0+948192]
+	Ordinal0 [0x00BE86E6+952038]
+	GetHandleVerifier [0x00FC0CB2+2738370]
+	GetHandleVerifier [0x00FB21B8+2678216]
+	GetHandleVerifier [0x00DA17AA+512954]
+	GetHandleVerifier [0x00DA0856+509030]
+	Ordinal0 [0x00CB743B+1799227]
+	Ordinal0 [0x00CBBB68+1817448]
+	Ordinal0 [0x00CBBC55+1817685]
+	Ordinal0 [0x00CC5230+1856048]
+	BaseThreadInitThunk [0x7609FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F67A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F67A6E+238]
+
+2022-09-02 05:25:58,125 :INFO :TestHomePage :test_search_for_a_trip will verify search and the result title agaisnt the selected adventures
+2022-09-02 05:26:42,707 :INFO :TestHomePage :test_search_for_a_trip will verify search and the result title agaisnt the selected adventures
+2022-09-02 05:26:56,845 :INFO :TestHomePage :This method will filter on the basis of amount range and verify the result
+2022-09-02 05:27:06,879 :ERROR :TestHomePage :An Exception occurred:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Search')]"}
+  (Session info: chrome=104.0.5112.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D178B3+2193587]
+	Ordinal0 [0x00CB0681+1771137]
+	Ordinal0 [0x00BC41A8+803240]
+	Ordinal0 [0x00BF24A0+992416]
+	Ordinal0 [0x00BF273B+993083]
+	Ordinal0 [0x00C1F7C2+1177538]
+	Ordinal0 [0x00C0D7F4+1103860]
+	Ordinal0 [0x00C1DAE2+1170146]
+	Ordinal0 [0x00C0D5C6+1103302]
+	Ordinal0 [0x00BE77E0+948192]
+	Ordinal0 [0x00BE86E6+952038]
+	GetHandleVerifier [0x00FC0CB2+2738370]
+	GetHandleVerifier [0x00FB21B8+2678216]
+	GetHandleVerifier [0x00DA17AA+512954]
+	GetHandleVerifier [0x00DA0856+509030]
+	Ordinal0 [0x00CB743B+1799227]
+	Ordinal0 [0x00CBBB68+1817448]
+	Ordinal0 [0x00CBBC55+1817685]
+	Ordinal0 [0x00CC5230+1856048]
+	BaseThreadInitThunk [0x7609FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F67A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F67A6E+238]
+
+2022-09-02 05:27:07,608 :INFO :TestHomePage :test_sent_broshure_email will send broshure to the email address provided
+2022-09-02 05:30:40,614 :INFO :TestHomePage :test_search_for_a_trip will verify search and the result title agaisnt the selected adventures
+2022-09-02 05:30:52,321 :INFO :TestHomePage :This method will filter on the basis of amount range and verify the result
+2022-09-02 05:31:02,369 :ERROR :TestHomePage :An Exception occurred:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Search')]"}
+  (Session info: chrome=104.0.5112.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D178B3+2193587]
+	Ordinal0 [0x00CB0681+1771137]
+	Ordinal0 [0x00BC41A8+803240]
+	Ordinal0 [0x00BF24A0+992416]
+	Ordinal0 [0x00BF273B+993083]
+	Ordinal0 [0x00C1F7C2+1177538]
+	Ordinal0 [0x00C0D7F4+1103860]
+	Ordinal0 [0x00C1DAE2+1170146]
+	Ordinal0 [0x00C0D5C6+1103302]
+	Ordinal0 [0x00BE77E0+948192]
+	Ordinal0 [0x00BE86E6+952038]
+	GetHandleVerifier [0x00FC0CB2+2738370]
+	GetHandleVerifier [0x00FB21B8+2678216]
+	GetHandleVerifier [0x00DA17AA+512954]
+	GetHandleVerifier [0x00DA0856+509030]
+	Ordinal0 [0x00CB743B+1799227]
+	Ordinal0 [0x00CBBB68+1817448]
+	Ordinal0 [0x00CBBC55+1817685]
+	Ordinal0 [0x00CC5230+1856048]
+	BaseThreadInitThunk [0x7609FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F67A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F67A6E+238]
+
+2022-09-02 05:31:04,547 :INFO :TestHomePage :test_sent_broshure_email will send broshure to the email address provided
+2022-09-02 05:31:14,640 :ERROR :TestHomePage :An Exception occurred:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Search')]"}
+  (Session info: chrome=104.0.5112.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D178B3+2193587]
+	Ordinal0 [0x00CB0681+1771137]
+	Ordinal0 [0x00BC41A8+803240]
+	Ordinal0 [0x00BF24A0+992416]
+	Ordinal0 [0x00BF273B+993083]
+	Ordinal0 [0x00C1F7C2+1177538]
+	Ordinal0 [0x00C0D7F4+1103860]
+	Ordinal0 [0x00C1DAE2+1170146]
+	Ordinal0 [0x00C0D5C6+1103302]
+	Ordinal0 [0x00BE77E0+948192]
+	Ordinal0 [0x00BE86E6+952038]
+	GetHandleVerifier [0x00FC0CB2+2738370]
+	GetHandleVerifier [0x00FB21B8+2678216]
+	GetHandleVerifier [0x00DA17AA+512954]
+	GetHandleVerifier [0x00DA0856+509030]
+	Ordinal0 [0x00CB743B+1799227]
+	Ordinal0 [0x00CBBB68+1817448]
+	Ordinal0 [0x00CBBC55+1817685]
+	Ordinal0 [0x00CC5230+1856048]
+	BaseThreadInitThunk [0x7609FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F67A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F67A6E+238]
+
+2022-09-02 05:31:15,998 :INFO :TestHomePage :End to End scenario for entering any tour in the wishlist and then removing it
+2022-09-02 05:31:38,697 :ERROR :TestHomePage :An Exception occurred:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[contains(@class, 'search__where')]"}
+  (Session info: chrome=104.0.5112.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D178B3+2193587]
+	Ordinal0 [0x00CB0681+1771137]
+	Ordinal0 [0x00BC41A8+803240]
+	Ordinal0 [0x00BF24A0+992416]
+	Ordinal0 [0x00BF273B+993083]
+	Ordinal0 [0x00C1F7C2+1177538]
+	Ordinal0 [0x00C0D7F4+1103860]
+	Ordinal0 [0x00C1DAE2+1170146]
+	Ordinal0 [0x00C0D5C6+1103302]
+	Ordinal0 [0x00BE77E0+948192]
+	Ordinal0 [0x00BE86E6+952038]
+	GetHandleVerifier [0x00FC0CB2+2738370]
+	GetHandleVerifier [0x00FB21B8+2678216]
+	GetHandleVerifier [0x00DA17AA+512954]
+	GetHandleVerifier [0x00DA0856+509030]
+	Ordinal0 [0x00CB743B+1799227]
+	Ordinal0 [0x00CBBB68+1817448]
+	Ordinal0 [0x00CBBC55+1817685]
+	Ordinal0 [0x00CC5230+1856048]
+	BaseThreadInitThunk [0x7609FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F67A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F67A6E+238]
+
+2022-09-02 06:14:40,478 :INFO :TestHomePage :test_search_for_a_trip will verify search and the result title agaisnt the selected adventures
+2022-09-02 06:15:13,332 :INFO :TestHomePage :This method will filter on the basis of amount range and verify the result
+2022-09-02 06:15:43,024 :INFO :TestHomePage :test_sent_broshure_email will send broshure to the email address provided
+2022-09-02 06:16:16,496 :INFO :TestHomePage :End to End scenario for entering any tour in the wishlist and then removing it
+2022-09-02 06:20:44,648 :INFO :TestHomePage :test_search_for_a_trip will verify search and the result title agaisnt the selected adventures
+2022-09-02 06:21:14,764 :INFO :TestHomePage :This method will filter on the basis of amount range and verify the result
+2022-09-02 06:21:45,576 :INFO :TestHomePage :test_sent_broshure_email will send broshure to the email address provided
+2022-09-02 06:22:22,224 :INFO :TestHomePage :End to End scenario for entering any tour in the wishlist and then removing it
+2022-09-02 06:29:53,191 :INFO :TestHomePage :test_search_for_a_trip will verify search and the result title agaisnt the selected adventures
+2022-09-02 06:30:07,327 :ERROR :TestHomePage :An Exception occurred:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[contains(@class, 'title')]"}
+  (Session info: chrome=104.0.5112.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D178B3+2193587]
+	Ordinal0 [0x00CB0681+1771137]
+	Ordinal0 [0x00BC41A8+803240]
+	Ordinal0 [0x00BF24A0+992416]
+	Ordinal0 [0x00BF273B+993083]
+	Ordinal0 [0x00C1F7C2+1177538]
+	Ordinal0 [0x00C0D7F4+1103860]
+	Ordinal0 [0x00C1DAE2+1170146]
+	Ordinal0 [0x00C0D5C6+1103302]
+	Ordinal0 [0x00BE77E0+948192]
+	Ordinal0 [0x00BE86E6+952038]
+	GetHandleVerifier [0x00FC0CB2+2738370]
+	GetHandleVerifier [0x00FB21B8+2678216]
+	GetHandleVerifier [0x00DA17AA+512954]
+	GetHandleVerifier [0x00DA0856+509030]
+	Ordinal0 [0x00CB743B+1799227]
+	Ordinal0 [0x00CBBB68+1817448]
+	Ordinal0 [0x00CBBC55+1817685]
+	Ordinal0 [0x00CC5230+1856048]
+	BaseThreadInitThunk [0x7609FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F67A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F67A6E+238]
+
+2022-09-02 06:30:21,771 :INFO :TestHomePage :This method will filter on the basis of amount range and verify the result
+2022-09-02 06:30:56,369 :INFO :TestHomePage :test_sent_broshure_email will send broshure to the email address provided
+2022-09-02 06:31:09,941 :ERROR :TestHomePage :An Exception occurred:Message: no such element: Unable to locate element: {"method":"xpath","selector":"(//button[contains(@type,'button')][normalize-space()='Download Brochure'])[1]"}
+  (Session info: chrome=104.0.5112.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00D178B3+2193587]
+	Ordinal0 [0x00CB0681+1771137]
+	Ordinal0 [0x00BC41A8+803240]
+	Ordinal0 [0x00BF24A0+992416]
+	Ordinal0 [0x00BF273B+993083]
+	Ordinal0 [0x00C1F7C2+1177538]
+	Ordinal0 [0x00C0D7F4+1103860]
+	Ordinal0 [0x00C1DAE2+1170146]
+	Ordinal0 [0x00C0D5C6+1103302]
+	Ordinal0 [0x00BE77E0+948192]
+	Ordinal0 [0x00BE86E6+952038]
+	GetHandleVerifier [0x00FC0CB2+2738370]
+	GetHandleVerifier [0x00FB21B8+2678216]
+	GetHandleVerifier [0x00DA17AA+512954]
+	GetHandleVerifier [0x00DA0856+509030]
+	Ordinal0 [0x00CB743B+1799227]
+	Ordinal0 [0x00CBBB68+1817448]
+	Ordinal0 [0x00CBBC55+1817685]
+	Ordinal0 [0x00CC5230+1856048]
+	BaseThreadInitThunk [0x7609FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F67A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F67A6E+238]
+
+2022-09-02 06:31:25,067 :INFO :TestHomePage :End to End scenario for entering any tour in the wishlist and then removing it
+2022-09-02 06:31:25,068 :ERROR :TestHomePage :An Exception occurred:name 'NB' is not defined
+2022-09-02 06:34:09,134 :INFO :TestHomePage :test_search_for_a_trip will verify search and the result title agaisnt the selected adventures
+2022-09-02 06:34:35,455 :INFO :TestHomePage :This method will filter on the basis of amount range and verify the result
+2022-09-02 06:35:05,643 :INFO :TestHomePage :test_sent_broshure_email will send broshure to the email address provided
+2022-09-02 06:35:42,515 :INFO :TestHomePage :End to End scenario for entering any tour in the wishlist and then removing it

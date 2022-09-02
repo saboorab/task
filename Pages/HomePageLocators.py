@@ -1,0 +1,17 @@
+class HomePageLocators:
+    search_where = "//input[contains(@class, 'search__where')]"
+    search_when = "//input[contains(@class, 'search__when')]"
+    search_who = "//input[contains(@class, 'search__who')]"
+    search_month = "//div[contains(@class, 'month')]/button[1]"
+    search_adv = "//span[contains(@class, 'checkbox__icon')][1]"
+    search_btn = "//button[contains(text(), 'Search')]"
+    search_icon_wishlist = " //*[contains(@class, 'sbtn cpr')]"
+    tour_view_btn = "//*[contains(@class, 'tour-view-more')]/a[1]"
+    tour_view_wishlist_button = '//div[contains(@class, "icon-button-wishlist")]'
+    search_title_result = "//h1[contains(@class, 'title')]"
+    description_value = "//*[contains(@class, 'description-value')]"
+    download_brochure="(//button[contains(@type,'button')][normalize-space()='Download Brochure'])[1]"
+    enter_email="//input[@placeholder='Enter email address']"
+    downlaodbrochureemail_popup="//a[@class='but blue popup__input-button-link']"
+    broshuresuccessfullysent="//h3[normalize-space()='Brochure successfully sent!']"
+    overallrating="//body/main/div[@class='c']/div[@class='bl bl--middle']/div[@class='ao-tour-block js-ao-tour-block ao-tour-reviews js-ao-tour-reviews rev']/div[@class='ao-tour-block__overview-container ao-tour-block--padding-left-right']/ul[@class='ao-tour-reviews__overview-list ao-tour-reviews__overview-list--7']/li[1]/div[1]"
