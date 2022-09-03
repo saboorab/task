@@ -7,7 +7,6 @@ from selenium.webdriver.edge.service import Service as EdgeService
 from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.firefox import GeckoDriverManager
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
-
 driver = None
 
 
@@ -24,18 +23,17 @@ def setup(request):
 
     browser_name=request.config.getoption("--browser_name")
     if browser_name=="chrome":
-        driver = webdriver.Chrome(ChromeDriverManager().install())
+        driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
     elif browser_name=="firefox":
-        driver = webdriver.Firefox(GeckoDriverManager().install())
+        driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()))
     elif browser_name=="edge":
-        driver = webdriver.Edge(EdgeChromiumDriverManager().install())
+        driver = webdriver.Edge(service=EdgeService(EdgeChromiumDriverManager().install()))
 
     driver.get("https://www.tourradar.com/")
     driver.implicitly_wait(10)
-    driver.maximize_window()
 
     request.cls.driver=driver
-    yield driver
+    yield
     driver.close()
 
 @pytest.mark.hookwrapper
