@@ -103,8 +103,4 @@ class Home:
 
 
 
-            # if int(value.text.replace(',', '')) > 1000 and int(value.text.replace(',', '')) < 1500:
-            #     print("1000 < ",  value.text.replace(',', ''), " < 1500")
-            # else:
-            #     print("Assertion failure")
-            #     return False
+        
